@@ -75,6 +75,6 @@ All talks and articles below are in Japanese unless otherwise noted.
 ## Professional Service
 
 - Workshop organizer: [Gen4AVC](https://gen4avc.github.io/) (ICCV 2025, ECCV 2026)
-- Meeting on Image Recognition and Understanding (MIRU): Organizing Committee Chair (2025 – 2026), Finance Chair (2018)
+- Meeting on Image Recognition and Understanding (MIRU): Executive Chair (2025 – 2026), Finance Chair (2018)
 - IEICE Technical Committee on Pattern Recognition and Media Understanding (PRMU): Vice Chair (2025 – 2026), Secretary (2017 – 2018), Committee Member (2016, 2019 – 2022)
 - International Conference on Machine Vision Applications (MVA): Publicity Chair (2019), Organizing Committee (2015, 2017)
