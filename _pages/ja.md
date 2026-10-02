@@ -13,7 +13,7 @@ profile:
   image_circular: false
   more_info: >
     <p>E-mail: masato0713 [at] gmail [dot] com</p>
-    <p><a href="https://x.com/mi141">X (twitter)</a> · <a href="https://www.linkedin.com/in/masato-ishii/">LinkedIn</a></p>
+    <p><a href="https://x.com/mi141">X (Twitter)</a> · <a href="https://www.linkedin.com/in/masato-ishii/">LinkedIn</a></p>
 
 selected_papers: false # 論文リストは本文中に表示
 social: true
@@ -24,6 +24,8 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+{% include home_styles.liquid %}
 
 <p class="lang-switch"><a href="{{ '/' | relative_url }}">English</a> · 日本語</p>
 

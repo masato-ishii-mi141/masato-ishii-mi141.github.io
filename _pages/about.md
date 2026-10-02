@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>masato0713 [at] gmail [dot] com</p>
+    <p>E-mail: masato0713 [at] gmail [dot] com</p>
     <p><a href="https://x.com/mi141">X (Twitter)</a> · <a href="https://www.linkedin.com/in/masato-ishii/">LinkedIn</a></p>
 
 selected_papers: false # the publication list is placed inside the page body below
@@ -23,6 +23,8 @@ latest_posts:
   enabled: false
 ---
 
+{% include home_styles.liquid %}
+
 <p class="lang-switch">English · <a href="{{ '/ja/' | relative_url }}">日本語</a></p>
 
 **Affiliation**: Sony Group Corporation  
@@ -34,7 +36,7 @@ latest_posts:
   - Seconded to Sony Research Inc. (2023 – 2026)
 - **2017 – 2019**: RIKEN Center for Advanced Intelligence Project (AIP), Visiting Researcher (concurrent)
 - **2010 – 2019**: NEC Corporation
-- **Ph.D.** (Information and Communication Engineering), Graduate School of Information Science and Technology, The University of Tokyo (Advisor: Prof. Masashi Sugiyama)
+- **Ph.D.** (Information Science and Technology), Graduate School of Information Science and Technology, The University of Tokyo (Advisor: Prof. Masashi Sugiyama)
 
 ## Recent Publications
 
