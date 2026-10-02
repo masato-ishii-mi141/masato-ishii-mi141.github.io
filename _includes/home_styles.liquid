@@ -4,4 +4,18 @@
     margin-top: 3rem;
     margin-bottom: 1rem;
   }
+
+  /* On narrow screens al-folio makes the profile block full width; keep the photo compact and centered instead */
+  @media (max-width: 575.98px) {
+    .post article .profile {
+      float: none !important;
+      margin-left: 0;
+      margin-right: 0;
+      text-align: center;
+    }
+    .post article .profile img {
+      width: 180px;
+      max-width: 55%;
+    }
+  }
 </style>
