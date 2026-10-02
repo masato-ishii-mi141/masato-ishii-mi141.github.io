@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://masato-ishii-mi141.github.io/sitemap.xml
