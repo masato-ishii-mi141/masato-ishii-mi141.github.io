@@ -1,11 +1,12 @@
 # Badge colors for the publication list (keyed by the `abbr` field in _bibliography/papers.bib)
+# Light fills; the badge text color is fixed to dark in _includes/home_styles.liquid
 "CVPR":
-  color: "#1f6f8b"
+  color: "#cfe6ee"
 "ICCV":
-  color: "#2b7a4b"
+  color: "#d3ebdc"
 "ECCV":
-  color: "#8b3a62"
+  color: "#f1d7e3"
 "ICLR":
-  color: "#5b4b9a"
+  color: "#e0dbf2"
 "IJCNN":
-  color: "#b5651d"
+  color: "#f6e0c9"
