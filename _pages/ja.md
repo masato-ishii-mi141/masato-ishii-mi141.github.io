@@ -2,6 +2,7 @@
 layout: about
 title: 日本語
 permalink: /ja/
+meta_title: 石井 雅人 (Masato Ishii) # used for the browser tab and link previews instead of `title`
 lang: ja
 nav: true
 nav_order: 1

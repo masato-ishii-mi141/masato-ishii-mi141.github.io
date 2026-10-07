@@ -2,6 +2,7 @@
 layout: about
 title: English
 permalink: /
+meta_title: Masato Ishii # used for the browser tab and link previews instead of `title`
 lang: en
 subtitle: Sony Group Corporation
 
@@ -48,22 +49,20 @@ Selected recent papers. See [Google Scholar](https://scholar.google.com/citation
 
 ## Invited Talks & Articles
 
-All talks and articles below are in Japanese unless otherwise noted.
-
-- IBIS 2025 Tutorial: "Diffusion Models: Past and Future"
-- Journal of the Japan Society of Information and Media Studies, July 2025: "Recent Advances in High-Resolution Image/Video Generation with Diffusion Models"
+- IBIS 2025 Tutorial: "Diffusion Models: Past and Future" (in Japanese)
+- Journal of the Japan Society of Information and Media Studies, July 2025: "Recent Advances in High-Resolution Image/Video Generation with Diffusion Models" (in Japanese)
 - IJCNN 2025 Tutorial: "[Diffusion Models and Flows](https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home)" (in English)
-- SSII 2024, Research Highlights Session: "[The Evolution of Image Generation Technology: The Past Ten Years and Future Prospects](https://speakerdeck.com/ssii/ssii2024-os1-02)"
-- CV Saizensen (Frontiers of Computer Vision), Winter 2023: "[An Introduction to Diffusion Models: An Invitation to the New Frontier of Image Generation](https://www.kyoritsu-pub.co.jp/book/b10039856.html)"
-- FIT 2023 Special Event "Frontiers of Vision-and-Language": "Diffusion Models in Vision-and-Language"
-- IPSJ Seminar Series 2023: "Image Generation with Diffusion Models and Its Applications"
-- JSAI 2023 (Annual Conference of the Japanese Society for Artificial Intelligence) Tutorial: "Image Generation with Diffusion Models: Fundamentals and Recent Advances"
-- CV Saizensen (Frontiers of Computer Vision), Summer 2023: "[Diffusion Models Today: Behind the Magic That Transformed Image Generation](https://www.kyoritsu-pub.co.jp/book/b10031222.html)"
-- IPSJ SIG-CVIM, May 2023, Tutorial: "Image Generation with Diffusion Models"
-- WEB+DB PRESS Vol. 134, Special Feature 3: "[How Image Generation AI Works: Inside Stable Diffusion](https://gihyo.jp/magazine/wdpress/archive/2023/vol134)"
-- IBISML Workshop, March 2023, Invited Talk: "The Frontier of Image Generation with Diffusion Models"
-- SSII 2022, Technology Trend Session: "[Machine Learning Techniques for Efficiently Leveraging Limited Data and Labels](https://www.slideshare.net/slideshow/ssii2022-ss2/251933615)"
-- GTC Japan 2017, Invited Talk: "[Deep Learning Techniques for Extracting the Maximum Value from Data](https://m.youtube.com/watch?feature=youtu.be&v=iRe6_2JkelY)"
+- SSII 2024, Research Highlights Session: "[The Evolution of Image Generation Technology: The Past Ten Years and Future Prospects](https://speakerdeck.com/ssii/ssii2024-os1-02)" (in Japanese)
+- CV Saizensen (Frontiers of Computer Vision), Winter 2023: "[An Introduction to Diffusion Models: An Invitation to the New Frontier of Image Generation](https://www.kyoritsu-pub.co.jp/book/b10039856.html)" (in Japanese)
+- FIT 2023 Special Event "Frontiers of Vision-and-Language": "Diffusion Models in Vision-and-Language" (in Japanese)
+- IPSJ Seminar Series 2023: "Image Generation with Diffusion Models and Its Applications" (in Japanese)
+- JSAI 2023 (Annual Conference of the Japanese Society for Artificial Intelligence) Tutorial: "Image Generation with Diffusion Models: Fundamentals and Recent Advances" (in Japanese)
+- CV Saizensen (Frontiers of Computer Vision), Summer 2023: "[Diffusion Models Today: Behind the Magic That Transformed Image Generation](https://www.kyoritsu-pub.co.jp/book/b10031222.html)" (in Japanese)
+- IPSJ SIG-CVIM, May 2023, Tutorial: "Image Generation with Diffusion Models" (in Japanese)
+- WEB+DB PRESS Vol. 134, Special Feature 3: "[How Image Generation AI Works: Inside Stable Diffusion](https://gihyo.jp/magazine/wdpress/archive/2023/vol134)" (in Japanese)
+- IBISML Workshop, March 2023, Invited Talk: "The Frontier of Image Generation with Diffusion Models" (in Japanese)
+- SSII 2022, Technology Trend Session: "[Machine Learning Techniques for Efficiently Leveraging Limited Data and Labels](https://www.slideshare.net/slideshow/ssii2022-ss2/251933615)" (in Japanese)
+- GTC Japan 2017, Invited Talk: "[Deep Learning Techniques for Extracting the Maximum Value from Data](https://m.youtube.com/watch?feature=youtu.be&v=iRe6_2JkelY)" (in Japanese)
 
 ## Awards
 
