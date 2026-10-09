@@ -74,7 +74,7 @@ latest_posts:
 - MIRU2016 [MIRU長尾賞](https://sites.google.com/site/miru2016hamamatsu/miru2016-%E7%AC%AC19%E5%9B%9E%E7%94%BB%E5%83%8F%E3%81%AE%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0/%E8%A1%A8%E5%BD%B0)
 - [第３回技術経営・イノベーション賞](https://ja.wikipedia.org/wiki/%E6%8A%80%E8%A1%93%E7%B5%8C%E5%96%B6%E3%83%BB%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B3%9E) 文部科学大臣賞
 - IMPS2009 [ベストポスター賞](https://www.pcsj-imps.org/archive/2009awards.html)
-- 査読関連：Outstanding Reviewer (ECCV 2026), Gold Reviewer (ICML 2026), Top Reviewer (NeurIPS 2022, 2023), MIRU論文評価貢献賞 (MIRU 2025)
+- 査読関連：Outstanding Reviewer (ECCV 2026), Gold Reviewer (ICML 2026), Top Reviewer (NeurIPS 2022, 2023, 2026), MIRU論文評価貢献賞 (MIRU 2025)
 
 ## 国際・国内会議などの運営
 
