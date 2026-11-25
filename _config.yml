@@ -384,6 +384,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     hal,
     html,
+    openreview,
     inspirehep_id,
     pdf,
     pmid,
